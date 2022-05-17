@@ -1,0 +1,28 @@
+{
+    "license": "CC Attribution-NoDerivatives 4.0 International",
+    "file_hash": null,
+    "name": "Dynamo Force Updater",
+    "version": "1.0.0",
+    "description": "Node set with additional app independent universal Dynamo nodes",
+    "group": "Markov",
+    "keywords": [
+        "common",
+        "elements",
+        "execution",
+        "global",
+        "parameters",
+        "force",
+        "restart"
+    ],
+    "dependencies": [],
+    "contents": "",
+    "engine_version": "2.1.0.7733",
+    "engine": "dynamo",
+    "engine_metadata": "",
+    "site_url": "",
+    "repository_url": "",
+    "contains_binaries": true,
+    "node_libraries": [
+        "DynamoForceUpdater, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+}
