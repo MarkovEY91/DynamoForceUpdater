@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoForceUpdater", "DynamoForceUpdater\DynamoForceUpdater.csproj", "{914A9A4B-C69A-4BE7-8C94-282002D6A7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914A9A4B-C69A-4BE7-8C94-282002D6A7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914A9A4B-C69A-4BE7-8C94-282002D6A7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914A9A4B-C69A-4BE7-8C94-282002D6A7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914A9A4B-C69A-4BE7-8C94-282002D6A7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5C4F3B-A4FD-467B-A5D6-C88CF1D6EE2D}
+	EndGlobalSection
+EndGlobal
