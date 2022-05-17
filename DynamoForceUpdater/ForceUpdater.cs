@@ -1,9 +1,5 @@
 ﻿using System;
-
-//using Dynamo.Extensions;
 using Dynamo.Graph.Workspaces;
-//using Dynamo.Interfaces;
-//using Dynamo.Logging;
 using Dynamo.Models;
 
 
@@ -22,10 +18,6 @@ namespace DynamoForceUpdater
             currentWorkspace = GetCurrentWorkspace();
             dynModel = Dynamo.Applications.DynamoRevit.RevitDynamoModel;
             dynModel.EvaluationCompleted += new EventHandler<EvaluationCompletedEventArgs>(onEvaluationCompleted);
-
-            //Dynamo.Applications.DynamoRevit.RevitDynamoModel.EvaluationCompleted += new EventHandler<EvaluationCompletedEventArgs>(onEvaluationCompleted);
-            //((DynamoModel)currentWorkspace).EvaluationCompleted += new EventHandler<EvaluationCompletedEventArgs>(onEvaluationCompleted);
-
 
 
             return anything;
@@ -55,13 +47,6 @@ namespace DynamoForceUpdater
             return ws;
         }
 
-        //private  static void Dispose()
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-        //private void Dispospo
-        //((DynamoViewModel)this._nodeView.get_ViewModel().DynamoViewModel).get_Model().EvaluationCompleted -= new EventHandler<EvaluationCompletedEventArgs>(this.Model_EvaluationCompleted);
 
     }
 }
