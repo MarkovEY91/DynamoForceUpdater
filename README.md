@@ -7,3 +7,5 @@ https://forum.dynamobim.com/t/how-to-force-nodes-to-rerun-without-changes-when-n
 
 
 C:\Users\151\AppData\Roaming\Dynamo\Dynamo Revit\2.12\packages\Dynamo Force Updater
+
+Работает только в 22 ревите и старше!
