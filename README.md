@@ -5,6 +5,11 @@
 Сделан на основе нода ForceChildsEval (Prorubim) и данного обсуждения: 
 https://forum.dynamobim.com/t/how-to-force-nodes-to-rerun-without-changes-when-nodes-rerun/56366/4?u=vladimir
 
+В проекте используются зависимости:
+C:\Program Files\Autodesk\Revit 2022\AddIns\DynamoForRevit\DynamoCore.dll
+C:\Program Files\Autodesk\Revit 2022\AddIns\DynamoForRevit\DynamoCoreWpf.dll
+C:\Program Files\Autodesk\Revit 2022\AddIns\DynamoForRevit\Revit\DynamoRevitDS.dll
+
 
 Скопируйте содержимое папки Output, вставьте в папку, где расположены ваши пакеты.
 В моем случае это папка: C:\Users\151\AppData\Roaming\Dynamo\Dynamo Revit\2.12\packages
