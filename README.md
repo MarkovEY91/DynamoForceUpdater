@@ -2,7 +2,7 @@
 
 Нод динамо для принудительного перезапуска цепочки последующих нодов в вашем скрипте.
 
-Сделан на основе нода ForceChildsEval (Prorubim) и данной статьи: 
+Сделан на основе нода ForceChildsEval (Prorubim) и данного обсуждения: 
 https://forum.dynamobim.com/t/how-to-force-nodes-to-rerun-without-changes-when-nodes-rerun/56366/4?u=vladimir
 
 
